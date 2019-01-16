@@ -21,7 +21,7 @@ public abstract class Dessin implements Dessinable, Serializable {
 	
 	
 	/*------------------------------------------------------------------------------------------------------
-	 * CONSTRUCTEUR PAR DÉFAUT
+	 * CONSTRUCTEUR VIDE
 	 * ------------------------------------------------------------------------------------------------------
 	 */
 	public Dessin() {
